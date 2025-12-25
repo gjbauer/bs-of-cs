@@ -2,7 +2,7 @@
 ## Classes made publicly Available
 ### Disclaimer: 
 
-Most CS courses do not have full assignments created and are merely the syllabus and lecture notes, some do, notably Computational Theory (out of the textbook) and Operating Systems (with assignments and solutions). A few courses are currently missing. I will do my best to try and fill in the gaps of the missing classes over time.
+Most CS courses do not have full assignments created and are merely the syllabus and lecture notes. Some do, notably Computational Theory (out of the textbook) and Operating Systems (with assignments and solutions). A few courses are currently missing. I will do my best to try and fill in the gaps of the missing classes over time.
 
 ------
 
@@ -12,7 +12,6 @@ Most CS courses do not have full assignments created and are merely the syllabus
 - [CS2370: Introduction to Programming](https://github.com/gjbauer/cs2370)
 - [CS2381: Data Structures and Intermediate Programming](https://github.com/gjbauer/cs2381)
 - [CS2470: Systems Programming in C/C++](https://github.com/gjbauer/cs2470)
-- [CS2220: Computer Hardware](https://github.com/gjbauer/cs2220)
 - [CS2220: Computer Hardware](https://github.com/gjbauer/cs2220)
 - [CS3221: Algorithm Analysis](https://github.com/gjbauer/cs3221)
 - [CS3600: Database Management Systems](https://github.com/gjbauer/cs3600)
