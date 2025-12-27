@@ -26,6 +26,7 @@ Most CS courses do not have full assignments created and are merely the syllabus
 
 ## Mathematics Requirements
 
+- MA2300: Statistics I
 - [MA2450: Mathematical Reasoning](https://github.com/gjbauer/ma2450)
 - [MA2550: Calculus I](https://github.com/gjbauer/ma2550)
 - [MA2560: Calculus II](https://github.com/gjbauer/ma2560)
