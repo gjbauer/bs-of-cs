@@ -26,7 +26,7 @@ Most CS courses do not have full assignments created and are merely the syllabus
 
 ## Mathematics Requirements
 
-- MA2450: Mathematical Reasoning
+- [MA2450: Mathematical Reasoning](https://github.com/gjbauer/ma2450)
 - MA2550: Calculus I
 - [MA2560: Calculus II](https://github.com/gjbauer/ma2560)
 
